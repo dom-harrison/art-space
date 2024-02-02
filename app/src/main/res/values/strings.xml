@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="title_1">Manhattan Bridge</string>
+    <string name="date_1">September 2023</string>
+    <string name="title_2">Katz Deli</string>
+    <string name="date_2">September 2023</string>
+    <string name="title_3">Times Square</string>
+    <string name="date_3">September 2023</string>
+    <string name="title_4">Greenwich Village</string>
+    <string name="date_4">September 2023</string>
+</resources>
